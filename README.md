@@ -132,7 +132,7 @@ me.say_hi()
 
 **Tech:** `PYTHON` `SOCKET` 
 
-[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/web_scraping)
+[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/chat_sockets/tree/main)
 
 </td>
 <td width="50%">
