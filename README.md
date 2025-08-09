@@ -109,7 +109,7 @@ me.say_hi()
 
 **Tech:** `HTML/CSS` `JavaScript` 
 
-[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/dashboard-interactivo)
+[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/laberinto_OPP)
 
 </td>
 </tr>
