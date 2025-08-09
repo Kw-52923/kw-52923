@@ -180,11 +180,6 @@ HTML/CSS     ████████████████░░░░░░�
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</td>
-<td align="center">
   <a href="https://www.linkedin.com/in/keila-gonz%C3%A1lez-lopez-95905a245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -200,7 +195,7 @@ HTML/CSS     ████████████████░░░░░░�
 
 *"El código es poesía, los datos son historias, y la educación es el puente que los conecta."* ✨
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
