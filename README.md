@@ -90,7 +90,7 @@ me.say_hi()
 
 **Tech:**  `HTML/CSS` `JavaScript` 
 
-[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/biblioteca-sql)
+[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/Calculadora_de_rutas)
 
 </td>
 <td width="50%">
@@ -132,7 +132,7 @@ me.say_hi()
 
 **Tech:** `PYTHON` `SOCKET` 
 
-[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/presentation-animator)
+[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/web_scraping)
 
 </td>
 <td width="50%">
