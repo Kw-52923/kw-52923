@@ -201,10 +201,5 @@ HTML/CSS     ████████████████░░░░░░�
 
 <div align="center">
   <b>¡Gracias por visitar mi perfil! 🎉</b>
-  <br>
-  <i>Visitor count:</i>
- <br>
-<a href="https://github.com/Kw-52923" target="_blank">
-  <img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=kw-52923" alt="Profile Visits" />
-</a>
+  
 </div>
