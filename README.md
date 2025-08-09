@@ -148,7 +148,7 @@ me.say_hi()
 
 **Tech:** `HTML` `CSS` `JavaScript` `SQL`
 
-[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/sistema-biblioteca-sql)
+[![Repo](https://img.shields.io/badge/Ver%20Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kw-52923/Taller_Base_De_Datos)
 
 
 </td>
